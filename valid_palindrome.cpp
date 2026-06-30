@@ -1,22 +1,30 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& numbers, int target) {
-        vector<int> result(2);
-        int left=0;
-        int right=numbers.size()-1;
-        while(left<right){
-            if(numbers[left]+numbers[right]<target){
-                left++;
-            }
-            else if(numbers[left]+numbers[right]>target){
-                right--;
-            }
-            else{
-                result[0]=left+1;
-                result[1]=right+1;
-                break;
+    bool isPalindrome(string s) {
+        int j=0;
+        for(int i=0;i<s.size();i++){
+            bool found=isalnum(s[i]);
+            if(found==true){
+                
+                s[j]=s[i];
+                s[j]=tolower(s[j]);
+                j++;
+
             }
         }
+        int newsize=j;
+        int left=0;
+        int right=newsize-1;
+        int result=true;
+        while(left<right){
+            if(s[left]!=s[right]){
+                result=false;
+                break;
+            }
+            left++;
+            right--;
+        }
         return result;
+        
     }
 };
