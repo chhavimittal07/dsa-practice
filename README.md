@@ -4,4 +4,5 @@
   3. Best Time to Buy and Sell Stock (LeetCode #121)
   4. Maximum Subarray (LeetCode #53)
   5. Valid Palindrome (LeetCode #125)
-  6. Two Sum II (LeetCode #167)  
+  6. Two Sum II (LeetCode #167)
+  7. Valid Parenthesis (LeetCode #20)
