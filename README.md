@@ -7,3 +7,4 @@
   6. Two Sum II (LeetCode #167)
   7. Valid Parenthesis (LeetCode #20)
   8. Min Stack (LeetCode #155)
+  9. Maximum Average Subarray I (LeetCode #643)
