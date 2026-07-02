@@ -6,3 +6,4 @@
   5. Valid Palindrome (LeetCode #125)
   6. Two Sum II (LeetCode #167)
   7. Valid Parenthesis (LeetCode #20)
+  8. Min Stack (LeetCode #155)
