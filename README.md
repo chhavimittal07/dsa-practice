@@ -10,3 +10,4 @@
   9. Maximum Average Subarray I (LeetCode #643)
   10. Longest Substring without repeating characters (LeetCode #3)
   11. Valid Anagram (LeetCode #242)
+  12. Resolved Two Sum using hashmap (LeetCode #1)
