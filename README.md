@@ -9,3 +9,4 @@
   8. Min Stack (LeetCode #155)
   9. Maximum Average Subarray I (LeetCode #643)
   10. Longest Substring without repeating characters (LeetCode #3)
+  11. Valid Anagram (LeetCode #242)
