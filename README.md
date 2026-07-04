@@ -11,3 +11,6 @@
   10. Longest Substring without repeating characters (LeetCode #3)
   11. Valid Anagram (LeetCode #242)
   12. Resolved Two Sum using hashmap (LeetCode #1)
+  13. Contains Duplicate (LeetCode #217)
+  14. Longest Consequetive Sequence (LeetCode #128)
+  15. Group Anagrams (LeetCode #49)
