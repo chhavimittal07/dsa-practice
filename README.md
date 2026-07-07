@@ -14,3 +14,6 @@
   13. Contains Duplicate (LeetCode #217)
   14. Longest Consequetive Sequence (LeetCode #128)
   15. Group Anagrams (LeetCode #49)
+  16. Fibonacci Number (LeetCode #509)
+  17. Reverse String (LeetCode #344)
+  18. Climbing Stairs (LeetCode #70)
