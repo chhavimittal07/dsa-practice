@@ -17,3 +17,5 @@
   16. Fibonacci Number (LeetCode #509)
   17. Reverse String (LeetCode #344)
   18. Climbing Stairs (LeetCode #70)
+  19. Merge Two Sorted Lists (LeetCode #21)
+  20. Reverse Linked list (LeetCode #206)
