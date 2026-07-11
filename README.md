@@ -21,6 +21,7 @@
   20. Reverse Linked list (LeetCode #206)
   21. Linked List Cycle (LeetCode #141)
   22. Middle of the Linked List (LeetCode #876)
-  23. Maximum Depth of Binary Tree (LeetCode #104)
-  24. Invert Binary Tree (LeetCode #226)
-  25. Remove Nth Node From End (LeetCode #19)
+  23. Remove Nth Node From End (LeetCode #19)
+  24. Maximum Depth of Binary Tree (LeetCode #104)
+  25. Invert Binary Tree (LeetCode #226)
+  
