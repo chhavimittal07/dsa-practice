@@ -25,4 +25,9 @@
   24. Maximum Depth of Binary Tree (LeetCode #104)
   25. Invert Binary Tree (LeetCode #226)
   26. Same Tree (LeetCode #100)
+  27. Balanced Binary Tree (LeetCode #110)
+  28. Path Sum (LeetCode #112)
+  29. Diameter of Binary Tree (LeetCode #543)
+  30. Palindrome Linked List (LeetCode #234)
+  31. Subtree of Another Tree (LeetCode #572)
   
