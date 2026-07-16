@@ -30,4 +30,6 @@
   29. Diameter of Binary Tree (LeetCode #543)
   30. Palindrome Linked List (LeetCode #234)
   31. Subtree of Another Tree (LeetCode #572)
-  
+  32. Binary Search (LeetCode #704)
+  33. Search Insert Position (LeetCode #35)
+  34. Find Minimum in Rotated Sorted Array (LeetCode #153)
