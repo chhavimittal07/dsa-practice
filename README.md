@@ -33,3 +33,5 @@
   32. Binary Search (LeetCode #704)
   33. Search Insert Position (LeetCode #35)
   34. Find Minimum in Rotated Sorted Array (LeetCode #153)
+  35. Search in Rotated Sorted Array (LeetCode #33)
+  36. First Bad Version (LeetCode #278)
